@@ -15,12 +15,11 @@ Contact
 <br><br><br>
 <table>
   <tr><th colspan="5"><h2>ANN Projects</h2></th></tr>
-  <tr><th>Project Name</th>    <th>Description</th>    <th>Key Features</th>    <th>Technologies</th>    <th>Repository link</th></tr>
+  <tr><th>Project Name</th>    <th>Description</th>        <th>Technologies</th>    <th>Repository link</th></tr>
   <tr>
     <td>Email Spam Classification </td>
-    <td>-------------------------</td>
-    <td>--------------------------</td>
-    <td>--------------------------</td>
+    <td>A machine learning-powered flask based web application that classifies emails as spam or legitimate using deep learning and natural language processing techniques.</td>
+    <td>email, beautifulsoup, nltk, tensorflow, neural networks, Flask</td>
     <td><a href="https://github.com/anthonyrodrigues443/Email-Spam-Classification" target="_blank">View Repository</a></td>
   </tr>
 </table>
@@ -29,9 +28,8 @@ Contact
 
 <table>
   <tr><th colspan="5"><h2>CNN Projects</h2></th></tr>
-  <tr><th>Project Name</th>    <th>Description</th>    <th>Key Features</th>    <th>Technologies</th>    <th>Repository link</th></tr>
+  <tr><th>Project Name</th>    <th>Description</th>        <th>Technologies</th>    <th>Repository link</th></tr>
   <tr>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -41,9 +39,8 @@ Contact
 
 <table>
   <tr><th colspan="5"><h2>RNN Projects</h2></th></tr>
-  <tr><th>Project Name</th>    <th>Description</th>    <th>Key Features</th>    <th>Technologies</th>    <th>Repository link</th></tr>
+  <tr><th>Project Name</th>    <th>Description</th>        <th>Technologies</th>    <th>Repository link</th></tr>
   <tr>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -54,9 +51,8 @@ Contact
 
 <table>
   <tr><th colspan="5"><h2>Computer Vision Projects</h2></th></tr>
-  <tr><th>Project Name</th>    <th>Description</th>    <th>Key Features</th>    <th>Technologies</th>    <th>Repository link</th></tr>
+  <tr><th>Project Name</th>    <th>Description</th>        <th>Technologies</th>    <th>Repository link</th></tr>
   <tr>
-    <td></td>
     <td></td>
     <td></td>
     <td></td>
@@ -84,7 +80,13 @@ Dataset information (or instructions to obtain data)</b>
 ➤Push to your branch
 ➤Create a Pull Request</b></pre><br>
 <h2>📫 Contact</h2>
-LinkedIn: [LinkedIn](https://linkedin.com/in/anthonyrodrigues443)
-<br>Email: anthonyrodrigues443@gmail.com
-<br><br>
+<p align="center">
+  <a href="mailto:anthonyrodrigues443@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-anthonyrodrigues443@gmail.com-B22222?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/anthonyrodrigues443" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-anthonyrodrigues443-005B8A?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>&nbsp;
+</p>
+  <br><br>
 <h3>⭐ Don't forget to star the repositories if you find them helpful!
